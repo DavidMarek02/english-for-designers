@@ -1,5 +1,4 @@
-# First Impression
-
+# Hi i guess iam David Marek!!!
 <!-- This is a comment, only visible to the author: Add a link to your presentation. -->
 <!-- Presentations do not need to be a PDF, you may link elsewhere, such as Figma, YouTube, etc. -->
 <!-- Consider adding navigation to each section (About, Featured Projects, Notes, etc.) -->
@@ -9,27 +8,28 @@
 - [Featured Projects](#featured-projects)
 - [Notes](#notes)
 
-## About
+## Some stuff about me
 
-<!-- Consider including a headshot. We’re not designing, so keep the image width/height around 320px x 320px (square). Replace "surname" with your surname in the file name. -->
+![CR6_1948](https://github.com/jgagne/english-for-designers/assets/153546110/dc06faf9-f02a-46fc-b6ce-6d3ac7485925)
 
-![Write an alternative text description.](img/surname-headshot.jpg)
 
-A short description about yourself. Think — alt text description length, a max of 125 characters, short and sweet. If you go over, that’s okay — edits are free.
+
+Iam hard working but also very childish. Iam a team player but sometimes i like to work alone. Iam professional music enjoyer and sometimes i can shoot some cool photos!!!
 
 ## Featured Projects
 
-A short description about the work.
+Miss Czech Republic 2023
 
-### Featured Project 1 Title
 
-<!-- Use a static poster image or animated GIF, but no video files. Again, keep the image width/height manageable, around 1280x x 720px (16:9 aspect ratio), or a max-width of 1280px. -->
 
-![Write an alternative text description.](img/featured-project-01.png)
+![image](https://github.com/jgagne/english-for-designers/assets/153546110/42d7fdd1-d14b-49fe-bd13-9f9ffa07fc93)
 
-- A short description about the project — *the what*.
-- A short description about the significance of the project — *the whys*.
-- A short description about the outcome of the project — *the result or takeaway*.
+
+
+
+- National beauty contest of Czech Re
+- One of the biggest jobs and responsibilities that i have ever had in this industry
+- Even in extremes conditions i think we managed to get a great result and it was really rewarding seeing my work on live national T
 
 <!-- Use the same stucture above for the rest of your featured projects. -->
 
