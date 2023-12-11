@@ -1,22 +1,17 @@
-# First Impression
-
+# Hi i guess iam David Marek!!!
 <!-- This is a comment, only visible to the author: Add a link to your presentation. -->
 <!-- Presentations do not need to be a PDF, you may link elsewhere, such as Figma, YouTube, etc. -->
 <!-- Consider adding navigation to each section (About, Featured Projects, Notes, etc.) -->
 
-- [View Presentation](img/surname-draft-first-impression-2023.pdf) (PDF) <!-- Add helpful hint as to what kind of file or destination is here. -->
-- [About](#about)
-- [Featured Projects](#featured-projects)
-- [Notes](#notes)
 
-## About
+## The guy on a picture is me!
 
-<!-- Consider including a headshot. We’re not designing, so keep the image width/height around 320px x 320px (square). Replace "surname" with your surname in the file name. -->
+![CR6_1948](https://github.com/jgagne/english-for-designers/assets/153546110/6f9f5708-25cb-459a-94cf-cb76ad147aa7)
 
-![Write an alternative text description.](img/surname-headshot.jpg)
 
-A short description about yourself. Think — alt text description length, a max of 125 characters, short and sweet. If you go over, that’s okay — edits are free.
 
+
+Iam photographer and sometimes also videographer. Iam great game and competetive music enjoyer. Iam a team player but sometimes i like to take my time and work alone. I love dogs and cats but in a totally platonic way!
 ## Featured Projects
 
 A short description about the work.
