@@ -1,13 +1,9 @@
 Voice, Tone, and Style
 
-<!-- Your brand’s: Content Style Guide -->
-<!-- Note: Even your headings can have your voice, tone, and style. -->
 
-An overview…
 
 ## Voice
 
-Introduction to section…
 
 In my voice i try to speak as clear as possible. I try to be very talkative and confident so i can chat with others on more personal level. I dont like to chat about nothing so i try to be very direct. In my professional life i use more sophisticated talk to appear more professional and a little bit classy.
 
@@ -18,13 +14,3 @@ I try to have a friendly tone so people can open up to me and talk talk to me on
 ## Style
 
 My style when I talk is engaging and approachable. I communicate with a vibrant energy that captures attention and sparks interest. My words reflect intelligence and thoughtfulness, providing valuable insights in a clear and straightforward manner. I'm confident yet down-to-earth, making complex ideas easy to understand and relate to.
-
-
-
-- …
-- …
-- …
-
-### Resources
-
-<!-- Add links to any research or related resources. -->
