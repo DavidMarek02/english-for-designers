@@ -1,10 +1,37 @@
-- [**First Surname**](./)
-    - [Work](work/index.md)
-    - [Writing](writing/index.md)
-    - [About](about.md)
+Voice, Tone, and Style
 
-![Me sitting in a podcasting seat in the studio.](img/portrait-studio-una.jpg)
+<!-- Your brand’s: Content Style Guide -->
+<!-- Note: Even your headings can have your voice, tone, and style. -->
 
-## Hello World, My name is First, and I’m a web developer.
+An overview…
 
-Oh, and I’m a podcaster, too. Learn more [about me](about.md).
+## Voice
+
+Introduction to section…
+
+1. …
+2. …
+3. …
+
+## Tone
+
+Introduction to section…
+
+- …
+- …
+- …
+
+## Style
+
+Introduction to section…
+
+<!-- Consider including style tips on capitalization of headings (sentence or title case), words to avoid, or general grammar and mechanics dos and don’ts, etc.
+See: https://styleguide.mailchimp.com/grammar-and-mechanics/-->
+
+- …
+- …
+- …
+
+### Resources
+
+<!-- Add links to any research or related resources. -->
